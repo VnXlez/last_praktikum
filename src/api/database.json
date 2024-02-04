@@ -1,0 +1,39 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "name": "Jakarta",
+      "rating": "3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolor natus illo, nulla minus doloribus beatae, minima quia numquam maiores quisquam labore odit sint obcaecati expedita vel cumque quasi mollitia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus in amet, perferendis inventore vitae necessitatibus ea repudiandae neque impedit! Natus dolor soluta numquam inventore adipisci quo sit? Itaque, nihil nulla?Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nihil facilis quae doloremque ullam ducimus, cupiditate distinctio, magnam eligendi quisquam iste dicta quos. Non cupiditate itaque inventore deleniti molestias ea!Lorem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aliquam exercitationem nulla molestias distinctio, tempore unde repellendus et excepturi quas a illum nisi facere veritatis! Molestiae perferendis ipsa tempora veritatis!",
+      "imageUrl": "https://i.imgur.com/oVsKZb2.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Medan",
+      "rating": "3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolor natus illo, nulla minus doloribus beatae, minima quia numquam maiores quisquam labore odit sint obcaecati expedita vel cumque quasi mollitia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus in amet, perferendis inventore vitae necessitatibus ea repudiandae neque impedit! Natus dolor soluta numquam inventore adipisci quo sit? Itaque, nihil nulla?Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nihil facilis quae doloremque ullam ducimus, cupiditate distinctio, magnam eligendi quisquam iste dicta quos. Non cupiditate itaque inventore deleniti molestias ea!Lorem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aliquam exercitationem nulla molestias distinctio, tempore unde repellendus et excepturi quas a illum nisi facere veritatis! Molestiae perferendis ipsa tempora veritatis!",
+      "imageUrl": "https://i.imgur.com/JDYxYii.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Bandung",
+      "rating": "10",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolor natus illo, nulla minus doloribus beatae, minima quia numquam maiores quisquam labore odit sint obcaecati expedita vel cumque quasi mollitia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus in amet, perferendis inventore vitae necessitatibus ea repudiandae neque impedit! Natus dolor soluta numquam inventore adipisci quo sit? Itaque, nihil nulla?Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nihil facilis quae doloremque ullam ducimus, cupiditate distinctio, magnam eligendi quisquam iste dicta quos. Non cupiditate itaque inventore deleniti molestias ea!Lorem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aliquam exercitationem nulla molestias distinctio, tempore unde repellendus et excepturi quas a illum nisi facere veritatis! Molestiae perferendis ipsa tempora veritatis!",
+      "imageUrl": "https://i.imgur.com/x8My6s5.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Surabaya",
+      "rating": "9",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolor natus illo, nulla minus doloribus beatae, minima quia numquam maiores quisquam labore odit sint obcaecati expedita vel cumque quasi mollitia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus in amet, perferendis inventore vitae necessitatibus ea repudiandae neque impedit! Natus dolor soluta numquam inventore adipisci quo sit? Itaque, nihil nulla?Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nihil facilis quae doloremque ullam ducimus, cupiditate distinctio, magnam eligendi quisquam iste dicta quos. Non cupiditate itaque inventore deleniti molestias ea!Lorem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aliquam exercitationem nulla molestias distinctio, tempore unde repellendus et excepturi quas a illum nisi facere veritatis! Molestiae perferendis ipsa tempora veritatis!",
+      "imageUrl": "https://i.imgur.com/7l8t69L.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Surakarta",
+      "rating": "4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus dolor natus illo, nulla minus doloribus beatae, minima quia numquam maiores quisquam labore odit sint obcaecati expedita vel cumque quasi mollitia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus in amet, perferendis inventore vitae necessitatibus ea repudiandae neque impedit! Natus dolor soluta numquam inventore adipisci quo sit? Itaque, nihil nulla?Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nihil facilis quae doloremque ullam ducimus, cupiditate distinctio, magnam eligendi quisquam iste dicta quos. Non cupiditate itaque inventore deleniti molestias ea!Lorem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aliquam exercitationem nulla molestias distinctio, tempore unde repellendus et excepturi quas a illum nisi facere veritatis! Molestiae perferendis ipsa tempora veritatis!",
+      "imageUrl": "https://i.imgur.com/JDYxYii.jpeg"
+    }
+  ]
+}
